@@ -1,0 +1,7 @@
+{
+  "uuid": "gnome-web-search@devyellow.com",
+  "name": "Gnome Web Search",
+  "description": "Search the web from the top bar",
+  "shell-version": ["49"],
+  "version": 1
+}
