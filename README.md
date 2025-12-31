@@ -18,7 +18,9 @@ Compatible con **GNOME Shell 49**.
 ## Instalacion Manual
 
 git clone https://github.com/devyellow/gnome-web-search/searchbar.git
+
 cp -r gnome-web-search@devyellow.com ~/.local/share/gnome-shell/extensions/
+
 gnome-extensions enable gnome-web-search@devyellow.com
 
 Reinicia GNOME Shell si es necesario:
